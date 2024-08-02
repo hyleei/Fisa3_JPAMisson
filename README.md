@@ -1,10 +1,27 @@
 # [우리FISA 3기 클라우드 엔지니어링] JPA 학습 컨텐츠
----
 
-## 팀원 소개
+
+## 👥 팀원 소개
 |<img src="https://avatars.githubusercontent.com/u/79884688?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/104816148?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/127733525?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|
 |박장우<br/>[@Lisiant](https://github.com/Lisiant)|박현서<br/>[@hyleei](https://github.com/hyleei)|구동길<br/>[@dkac0012](https://github.com/dkac0012)|
+
+# 🗂️ 테이블 구조
+
+### 팀
+
+| TEAM_ID | TEAM_NAME |
+|---------|-----------|
+| 1       | 축구1팀   |
+| 2       | 배구1팀   |
+
+### 멤버
+
+| MEMBER_ID | NAME  | TEAM_ID |
+|-----------|-------|---------|
+| 1         | 손흥민 | 1       |
+| 2         | 김연경 | 1       |
+| 3         | 박찬호 | 1       |
 
 # 🏨 클래스 구조
 
